@@ -12,17 +12,17 @@
 
 📫 **How to reach me:** [jhasmriti45@gmail.com](mailto:jhasmriti45@gmail.com)  
 
-🔗 *"Fixing life bugs, Deploying in destiny" ✨*  
+🔗 *"Fixing life bugs, Deploying in destiny" ✨* 
+
+---
+
+## 🐍 My GitHub Contributions
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhasmriti1210/jhasmriti1210/output/github-snake-dark.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/jhasmriti1210/jhasmriti1210/output/github-snake.svg" />
   </picture>
 </p>
-
-
-
----
 
 ## 🌐 Socials
 <p align="left">
