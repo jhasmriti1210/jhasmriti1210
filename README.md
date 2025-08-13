@@ -19,10 +19,11 @@
 ## 🐍 My GitHub Contributions
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhasmriti1210/jhasmriti1210/output/github-snake-dark.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jhasmriti1210/jhasmriti1210/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhasmriti1210/jhasmriti1210/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jhasmriti1210/jhasmriti1210/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 
 ## 🌐 Socials
 <p align="left">
