@@ -13,6 +13,8 @@
 📫 **How to reach me:** [jhasmriti45@gmail.com](mailto:jhasmriti45@gmail.com)  
 
 🔗 *"Fixing life bugs, Deploying in destiny" ✨*  
+![snake gif](https://github.com/jhasmriti1210/jhasmriti1210/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
