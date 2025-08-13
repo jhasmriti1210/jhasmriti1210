@@ -53,6 +53,7 @@ Git, GitHub, VS Code, Postman, Docker, Render, Netlify, Google Cloud, AWS
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jhasmriti1210&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhasmriti1210&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhasmriti1210&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
