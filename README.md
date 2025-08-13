@@ -13,7 +13,13 @@
 📫 **How to reach me:** [jhasmriti45@gmail.com](mailto:jhasmriti45@gmail.com)  
 
 🔗 *"Fixing life bugs, Deploying in destiny" ✨*  
-![snake gif](https://github.com/jhasmriti1210/jhasmriti1210/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhasmriti1210/jhasmriti1210/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jhasmriti1210/jhasmriti1210/output/github-snake.svg" />
+  </picture>
+</p>
+
 
 
 ---
@@ -23,6 +29,11 @@
 <a href="https://www.linkedin.com/in/smriti-jha-a1210s/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
 </a>
+
+  <a href="https://instagram.com/erin.nerte" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
+
 <a href="https://leetcode.com/u/jhasmriti1210/" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
 </a>
@@ -32,9 +43,7 @@
 <a href="mailto:jhasmriti45@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-</a>
+
 </p>
 
 
