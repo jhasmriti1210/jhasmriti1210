@@ -1,12 +1,12 @@
 <!-- Animated Heading -->
 <h1 align="center">Hi 👋, I'm Smriti Jha</h1>
-<h3 align="center">A passionate Web Developer || Web Designer || AI/ML Enthusiast</h3>
+<h3 align="center">A passionate Software Engineer || Software Developer || Problem Solver || AI/ML Enthusiast</h3>
 
 ---
 
 📧 **Email Me** 👉 ✉️ [jhasmriti45@gmail.com](mailto:jhasmriti45@gmail.com) — For Collaboration, Projects, or Anything Else 😊😊
 
-🔭 **I’m currently working on:** AI-Driven Healthcare & AQI Forecasting Platforms  
+🔭 **I’m currently working on:** CSIR-NPL as a Project Intern   
 
 💬 **Ask me about:** Web Development, React.js, Next.js, Machine Learning, Generative AI  
 
@@ -75,6 +75,3 @@ Git, GitHub, VS Code, Postman, Docker, Render, Netlify, Google Cloud, AWS
 </p>
 
 ---
-
-## 🐍 Snake Animation
-![snake gif](https://github.com/jhasmriti1210/jhasmriti1210/blob/output/github-contribution-grid-snake.svg)
