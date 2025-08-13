@@ -1,10 +1,10 @@
 <!-- Animated Heading -->
 <h1 align="center">Hi 👋, I'm Smriti Jha</h1>
-<h3 align="center">A passionate Software Engineer || Software Developer || Problem Solver || AI/ML Enthusiast</h3>
+<h3 align="center">A passionate Software Engineer & Developer || Problem Solver || AI/ML Enthusiast || Poet</h3>
 
 ---
 
-📧 **Email Me** 👉 ✉️ [jhasmriti45@gmail.com](mailto:jhasmriti45@gmail.com) — For Collaboration, Projects, or Anything Else 😊😊
+📧 **Email Me** 👉 [jhasmriti45@gmail.com](mailto:jhasmriti45@gmail.com) — For Collaboration, Projects, or Anything Else
 
 🔭 **I’m currently working on:** CSIR-NPL as a Project Intern   
 
@@ -12,7 +12,10 @@
 
 📫 **How to reach me:** [jhasmriti45@gmail.com](mailto:jhasmriti45@gmail.com)  
 
-🔗 *"Fixing life bugs, Deploying in destiny" ✨* 
+<p align="center">
+  <em><strong>🔗 "Turning ideas into algorithms, and feelings into verses" 💻🖋️</strong></em>
+</p>
+
 
 ---
 
@@ -43,6 +46,9 @@
 </a>
 <a href="mailto:jhasmriti45@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+<a href="https://YOUR_POETRY_WEBSITE_URL" target="_blank">
+  <img src="https://img.shields.io/badge/-Poetry%20Website-FF4088?style=flat&logo=readme&logoColor=white" />
 </a>
 
 </p>
