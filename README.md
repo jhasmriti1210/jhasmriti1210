@@ -38,18 +38,14 @@
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/jhasmriti1210/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.codechef.com/users/jhasmriti1210" target="_blank">
-  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef" />
-</a>
+
 <a href="mailto:jhasmriti45@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="https://YOUR_POETRY_WEBSITE_URL" target="_blank">
-  <img src="https://img.shields.io/badge/-Poetry%20Website-FF4088?style=flat&logo=readme&logoColor=white" />
+<a href="https://smriti-jha-userdashboard.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Poetry%20Website-FF4088?style=flat&logo=writing&logoColor=white" />
 </a>
+
 
 </p>
 
