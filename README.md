@@ -6,7 +6,7 @@
 
 📧 **Email Me** 👉 [jhasmriti45@gmail.com](mailto:jhasmriti45@gmail.com) — For Collaboration, Projects, or Anything Else
 
-🔭 **I’m currently working on:** CSIR-NPL as a Project Intern   
+🔭 **I’m currently working on:** ISRO as a Project Intern   
 
 💬 **Ask me about:** Web Development, React.js, Next.js, Machine Learning, Generative AI  
 
